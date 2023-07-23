@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+.inp_comp{
+  display: flex;
+  flex-direction: row;
+  background-color:#4eadb1;
+}
+.heading{
+  display: block;
+  position: absolute;
+  font-size: larger;
+  top: 222px;
+  left: 296px;
+  color: white;
+}
+.one{
+  display: block;
+  height: 50px;
+  width: 50px;
+  border: 1px solid rgb(23, 77, 3);
+  background-color: white;
+}
+.zero{
+  background-color: rgb(2, 53, 66);
+  display: block;
+  height: 50px;
+  width: 50px;
+  border: 1px solid rgb(85, 156, 168);
+}
+.rows{
+  display: flex;
+}
+.initial_matrix{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(85, 156, 168);
+  margin: auto;
+  margin-top: 10px;
+  background-color: rgb(184, 114, 68);
+  width: 349px;
+}
+
+.two{
+  background-color: #4eadb1;
+  display: block;
+  height: 50px;
+  width: 50px;
+  border: 1px solid rgb(85, 156, 168);
+}
+.output{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid green;
+}
+.header{
+  background-color: rgb(21, 177, 177);
+  color: white;
+  height: auto;
+}
