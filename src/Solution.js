@@ -38,7 +38,7 @@ function Solution(){
         return;
     }
     return(
-        <div>
+        <div class="text">
             <h1>Total path ={string.length}</h1>
             <Print str={string}/>
         </div>

@@ -22,7 +22,7 @@ function handle_output(arr){
             temp[i][j]=2;
         }
     }
-    temp[0][0]=3
+    temp[0][0]=3;
     temp[i][j]=4;
     return(<Solve mat={temp}/>);
 }

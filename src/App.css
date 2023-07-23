@@ -1,17 +1,20 @@
 .App {
   text-align: center;
+  background-color: black;
 }
 .inp_comp{
   display: flex;
-  flex-direction: row;
-  background-color:#4eadb1;
+  flex-direction: column;
+}
+.text h1{
+  color:white;
 }
 .heading{
   display: block;
-  position: absolute;
-  font-size: larger;
-  top: 222px;
-  left: 296px;
+  font-size: 1cm;
+  display: flex;
+  flex-wrap:wrap;
+  place-content: center;
   color: white;
 }
 .one{
@@ -22,7 +25,7 @@
   background-color: white;
 }
 .zero{
-  background-color: rgb(2, 53, 66);
+  background-color: red;
   display: block;
   height: 50px;
   width: 50px;
@@ -38,11 +41,10 @@
   margin: auto;
   margin-top: 10px;
   background-color: rgb(184, 114, 68);
-  width: 349px;
 }
 
 .two{
-  background-color: #4eadb1;
+  background-color: rgb(76, 228, 76);
   display: block;
   height: 50px;
   width: 50px;
@@ -54,7 +56,18 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  
   border: 2px solid green;
+}
+.source {
+  height:52.22px;
+  width:52.22px;
+  background-color: white;
+}
+.source img{
+  height:50px;
+  width:50px;
+  border: 1px solid rgb(85, 156, 168);
 }
 .header{
   background-color: rgb(21, 177, 177);
