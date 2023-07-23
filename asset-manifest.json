@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rat_in_a_Maze/static/css/main.fdb8d526.css",
-    "main.js": "/Rat_in_a_Maze/static/js/main.ec6eb825.js",
+    "main.css": "/Rat_in_a_Maze/static/css/main.e1213654.css",
+    "main.js": "/Rat_in_a_Maze/static/js/main.d639492c.js",
     "static/js/787.08e96be5.chunk.js": "/Rat_in_a_Maze/static/js/787.08e96be5.chunk.js",
     "index.html": "/Rat_in_a_Maze/index.html",
-    "main.fdb8d526.css.map": "/Rat_in_a_Maze/static/css/main.fdb8d526.css.map",
-    "main.ec6eb825.js.map": "/Rat_in_a_Maze/static/js/main.ec6eb825.js.map",
+    "main.e1213654.css.map": "/Rat_in_a_Maze/static/css/main.e1213654.css.map",
+    "main.d639492c.js.map": "/Rat_in_a_Maze/static/js/main.d639492c.js.map",
     "787.08e96be5.chunk.js.map": "/Rat_in_a_Maze/static/js/787.08e96be5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdb8d526.css",
-    "static/js/main.ec6eb825.js"
+    "static/css/main.e1213654.css",
+    "static/js/main.d639492c.js"
   ]
 }
